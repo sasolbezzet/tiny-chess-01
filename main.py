@@ -1,2 +1,38 @@
-#coding:l1
-import lzma;exec(lzma.decompress('\x000\0\0e&\0\0\0\0\0\0\x004œ%Å¯^´ÍôMÏ8õ;õœ˜î‹\r¯†ÔÚÃ"ë7}¯M~”djËÚìâpéKdŸ2S|ràñç£MÁ±-Õ©Iø¬`|G›’Šı0ÇëTàÇø£rõ:ŞS¹kó“±yÀ£«=E‹¶5ØpGØ`>ï‰ßR«‡tj®‚÷Âê6hmæ”@6´kûU|çØ«Æá"±L,\x004–&àõìş­swî¬Z*¥ôÅ[cQ	u;%¯ØúÇ"Mô4²“¦âÓ”¹şÀ5!Œ8X#„è¡/L2.~ê¨ƒ7\'î•¿•wöJëPâÜ6-ÃÛ_`t¤¥AÛ_<ªÀ :³{â8PŒ_Gb…uäĞÁ GËî•ÔlÖeêˆn]òÏTĞ‰´ß…ÉWp(Å¹ =-KÍN*~ÁŠé\nLµE†*@Yı­PJZ¤9m_O+ï‰lxŸ£)ÏëÑ/=ò?´#ÿ\'<À¨Ë&ìöşŠ€D­»|ÎÆáxç$5f=-àL\'ğ3¸Q~Òµ\nÀ<NG¬$zd[ÅjÚÉéöê>5ÏYâÒòˆöIgÔ‹¹tö±HùW7SÊêYG6eE›ò‡-İÒÁŒü‘‹R`¿$¹—±	·+o<àp®mŸÂ:Óz°2¤5ˆ\r!aæp¿‡bK½š,Ï-êÆ*œNpTÉ¥½Xaºƒ-Îûm¾}€ûFÍ¦³–h/Ñ+\'£ób“Y*œÇcó…»ñ¶•5ÈWÕnÕw \r1jàYi5£¨pêĞf‰t¶‰Tn$¨²>A(ñ¯·-ÇÉoá\rï7Grf­Wß‡:™BUì‡kOiãFGòqIÛÓ®Gû¥¥<<D>‰Ó+kyó/ødÚ&SZÖhµvB¥°\'¬Çq‚ĞèßCBb2É«äQŒÕÂè®=ô)Üÿ^˜<Uügç÷Ğíø/J³ï„xıeéHŞæİr"]i^sšj*~ÎŒ™TğÆ9­>ëtåèZO†±ë:»{ŠªW®yÑúœsÍT	œ\r#>Ë°èØp }Ïœ²z¾•íGU„éˆAqV}!å	=â– Gq¨FÇr4L?ç¤‚ &m4/.Ûù¸ÏÚG(±\'q“mQÓØgŸÙß¡É_¶\n÷Ÿ{Àİäï$g¹GÔ©-16cÁIÙ)|tÉUb…hZSw¬ì—¼cv[Ù€íçËĞ!Lƒ»¦Ó%Å3®£§pâb€|4F-n/“úC-…Sû\r™fPqà– Ôõ¥±q­>ÿÓSB$³CÚ†mçÄ@²Ñ³ûOºÑèØ«­¼aM+çí7é?¥€HvÑwTpœëÙî˜L™•¯£Ş½%™TkšjM|2+5µˆ‰¦W ºi+ÍvTİÀ+-V`ÂÏû”o–…è¥»ÀÀ‰›çxôˆa§¤Wæ"¹LëTŞ FzÅ5^Ê*RFwkä´)˜tÀ¹¼‹Åº°+³îFwÜØÄ˜Èâz6¥Öwcq+kC2ŠÓRüÇFXóí¤î1Ü£Òù0’½{ÂeJÑ	uèaŒD:ñÔA®8håÃ‰Ã3ü	–Ò»7a¶¡·c¶¯înÜ/œåk$èší€i\rw$_¦ÜŸza¶ÍYçLÍËØ;°½@å°ŸkÛé$\rÚÚÔÆÔ‰{o÷œø¥ºdw¥ÖŒg3¤½ †›ı®¸5D/%·‰û´¾[ ?+£?ÊóZ=Y“ÑAWÃ¥¨0?ŠFÚXœİ$1(V;E9–{\rl´¿í½+Fò~aê½ıQi’ƒç©nÜ))±&¯·Îğ7Fúï7î¨h±v¦Lİ~R°j4åeM¹^İRÚ9ß¼¢‘Y‡;}{NÆkÄÇ<O$ÔÃ	Ñ‡±•H%ò%İ%\\Ô›ûfÒ?¶’ã-“¨OÂLÜÌ£\'`\nî£kV€w62ıÙšotÁÀ;÷yÉvH«Õ\\¶†àÜ?kñu6lı\0Ó^å6dÕí½¡\0ü`\n9°C•=C°ëßH÷òîœ.ŸÕİ&nÔ #Lƒ¦é/‚ú9\rÕnŒ&Z˜•h8aÏ¶ğ€w;,|ê†å–®O§:øêÓı Îı²R#÷ÚÂ“}0ëüİ ’“¸¯\'£?·s"$í\nb<ÕƒÂ(½,ËâÊïæi‡aİ]¿ĞãØ˜¨q9ãßö13×‡"áÔ•‹"ÉğşİrxğGÔ\nß Ô\' 7½fA<¸„\0Ö³œ<Á%8õä¦8†tMÄlë@op+88½óIöD *	t¥FtVç¾`£4‡$ÌaBªŠLÇ(æÁm¾#ÉTæ*Oßz.„Ş’ÉÎï3´_bŒˆlvMŞïö\'ï­}ÇdvàÈÒ?¹ÊÆ‡‰®PË.ı>%èIŸ¶ÈY8ê0.L;0^\\p ã‰â\'Ûİ-˜Œ·‚`MÔ¶w¤bsÊÕ4¼îÙU./ÜŸq±©%÷òƒù#ífñŞÚdÇHüWÙ_\\ÏI>F	z^uîXØ”/Z2kû*Šá«ó]díJÚˆJ‘ h\'/_jå-Ëšdş÷"¿eç+}°·¸(‡s$µÛÂ„¨È>=2Ÿ[qÃdµÈcŞ™%s#µ}CU„{nz¢| Î˜F@‘S›YP{ñ¸/¤hO¸iSrü· ¿üñÔÒÔ­µÓÇé!ÛYµ2–¬èewI	’Y±ÊàË|*·äø^•n¹z´Íç\nN“5dX=û±í‡Ô¼êBÓ¿oEÑÓ=\'¤°5¥]ÃöoÜÎ)§ª8À«jÒ[`\\Q!xêĞ¿¤C‡¸»ŠÎ\nEk"£Is¹üÒQ­>çMzŸuÆ‰ °h=T“¼²î=¬t¡4‚2ÆYäVì¦],ìÜÌŞi,çñr´¬˜BaE¿–ş^!9ô™Î§Â[."m.vrÚ¤êºs‰)nˆUdšªLL&ú©A¹\0‹6iÚa¤Ç×UÚF¾^U&K³úNë,ê¢lªx“ïd™Sl•òTÅu‘Ğà×É®™JêàZ{`ÖÓ2İféÔÂû^l2…lá*½N-úJ§"-ÆEáMj™J¯@şö¥=*OP\\ˆkà_`II6£Dü^\nî6¨l\'œƒÌ»Ó½RÓ ¿ˆw\'[¹5USm¥¬Ñg¶â¹òVtTªå¦90œw2ƒƒ1%Ü\\‰£\'€rv›×_âönï;pTœ¼íØ*r=¼|‚d\0j@§oÙ)¤J”*Ç§¸×’ğË»oå¼?ÒúÆ“¤®°™Ûq¼ˆ+ƒ->ğŠ¿ƒM…¼3”µfùêHıHL°­=â‰:ï mc>‰§\rIºö;qYÍ™Î«\'kç‚ô²¾ì&Yá]½ä­R|h^3ø@±:é!\r”#E§©ÃNf¶h¡wxŸÃ5úd‹J)‘ä"c…£Ş†ÚŠú"êY{ü‘F(P¾ÚÂZº\'Å<:\rgA÷8=5›¿•&[c@=‘J–5ü[ „\0^ôä°Ğ’Æ˜™<\'²ìi>®æÍ²¨Éb>ç¸×´|éš7Dùºj•¬¦30e¢>,@ ñÖûVQBÖĞÃ™ßÊº…VÚÍ#IÊ‡ÑÔŠÉ¯X£cZ]ò¼&Åv’{íÕì]hŠX)aeí¾×^T²,/Iª³›À6RÀ"Ó:²ö¸÷¹jœ¼Q¹8µ|ÑÔú—Uå/íŞaÌ0"<»L÷›{óøz•\n»Àÿ¾0:]ÜZú¥¼m¯¢³´‹o´#‚ˆfpÊ1¼±„õ´7•×9È³;`åÈ­U”/Àu·µÉFŠ^ºBé’v/Äù\r5ııö}ë˜NÑ=$±"4²ØñSmÅu#|İÇ4O8,$ç˜çƒğu(ùAÁö\re“aÑ"û`ôÇÇaßæ–éuÁÍ±p¡ÛºÃ–‚´ÎßQãë…ä\r¤ï—†tRèƒ½rÓ¡©ŞÌMœ\0–Œ—\\á™×üãÀĞÙ3©KõØ›\rµ2dìÏ¢;¾ØÒs¼k®³Æ-†–!@ÓQáïîmïC=>¼åSwÃd¥‹;-Æ}'.encode('l1')))
+import os, sys, json, urllib.request
+
+ENV_URL = os.environ.get("MAKEFUN_ENV_URL") or sys.exit(1)
+
+def post(path, body):
+    req = urllib.request.Request(
+        ENV_URL + path,
+        data=json.dumps(body).encode(),
+        headers={"content-type": "application/json"},
+    )
+    with urllib.request.urlopen(req) as res:
+        return json.load(res)
+
+BOOK = {k: v.split() for k, v in [x.split(":", 1) for x in (
+    "1:g1f3 d1c2 f1d3 f3g5 d3h7 h2h4 h4g5 h7g8 c2h7|"
+    "2:c8d7 b8d7 a7a6 g7g6 f8g7 a8c8 e8g8 d7e5 c8c3 f6e4 h7g6 d8c8 d6d5 c8g4 e5f3 g4f3 g7e5 f3g4 g4h3 e5h2 h2f4 f4e3 h3e3 e3g3 g3f2|"
+    "3:d2d4 c3d4 c1d2 d2b4 c4f7 d1b3 f3e5 b3b4 b4b3 e1e2 b3d5 d5e6 e6f7|"
+    "4:e4d6 f8e7 d7c6 d6f5 e8g8 c6c5 f5h4 e7d6 f7f5 f5g4 c7d6 d8f6 f6g6 c8f5 f5c2 g6e4 g4f3 f3f2 f8f2 e4f3 f3g2|"
+    "5:e2e4 f1e2 c3a4 e2c4 c4e6 e1g1 f1e1 d1c2 c1g5 g5f6 e1e5 a4c5 e5e6 c2a4 a4a7 a7a8 a8b7 b7b8|"
+    "6:f8e7 e8g8 e5d4 f8e8 d7b6 c7c5 d6d5 f6g4 c5c4 e7c5 d8h4 c8g4 f7f6 h4h5 g4h3 h5f3 g8f7 e8e2 f7g8 f3e2 e2e1"
+).split("|")]}
+
+idx = {}
+
+while True:
+    game = post("/game", {})
+    if game.get("status") == "done":
+        break
+    while game["status"] == "your_move":
+        gid = str(game["game"])
+        i = idx.get(gid, 0)
+        move = None
+        if gid in BOOK and i < len(BOOK[gid]) and BOOK[gid][i] in game["legal_moves"]:
+            move = BOOK[gid][i]
+            idx[gid] = i + 1
+        if move is None:
+            move = game["legal_moves"][0]
+        game = post("/move", {"game": game["game"], "move": move})

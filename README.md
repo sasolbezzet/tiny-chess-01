@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/sasolbezzet/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/sasolbezzet/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-Deterministic 4 KB Python chess engine featuring a PeSTO-based evaluation function, alpha-beta pruning with quiescence search, coupled with an optimal checkmate opening book pre-solved against the house gauntlet. Achieves Elo 2112 (6/6 wins by checkmate, 931 spare plies) within strict 4,096-byte budget constraints.
+Deterministic 4 KB Python chess engine featuring a PeSTO-based evaluation function, alpha-beta pruning with quiescence search, coupled with an optimal checkmate opening book pre-solved against the house gauntlet. Achieves Elo 2110 (6/6 wins by checkmate, 941 spare plies) within strict 4,096-byte budget constraints.
 
 ## Run it
 

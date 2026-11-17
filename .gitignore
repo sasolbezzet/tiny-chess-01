@@ -1,1 +1,4 @@
 engine.py
+
+__pycache__/
+*.pyc
